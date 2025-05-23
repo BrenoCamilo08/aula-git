@@ -21,7 +21,7 @@ Git
 Subversion (SVN)
 Mercurial
 
-<<<<<<< HEAD
+
 # Desafio 02:
 
 ### Com suas palavras defina o que é programação orientada a objetivos (POO) e cite seus pilares? (mínimo 10 linhas)
@@ -46,6 +46,6 @@ Reutilização
 Flexibilidade
 Modularidade
 Simulação do Mundo Real
-=======
-## Desenvolvimento de sistemas
->>>>>>> 5a3fb880c2303d46709d11c5895f29b8ba33f453
+
+
+
